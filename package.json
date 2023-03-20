@@ -1,3 +1,6 @@
+"engines": {
+    "node": "18.2.1"
+},
 {
   "name": "nextjs-course",
   "version": "0.1.0",
