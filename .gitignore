@@ -8,3 +8,6 @@
 #vercel
 .vercel
 .env
+
+.node_modules
+.next
